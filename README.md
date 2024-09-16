@@ -32,6 +32,6 @@
 
     ![Step 8](steps_create_user/step_8.png)
 
-9. Step 9
+9. Step 9 - Write down your WebID. You will need it.
 
     ![Step 9](steps_create_user/step_9.png)
