@@ -2,6 +2,8 @@
 
 1. Step 1
 
+    POD Server Address: https://147.79.82.127:3000/
+
     ![Step 1](steps_create_user/step_1.png)
 
 2. Step 2
@@ -18,22 +20,18 @@
 
 5. Step 5
 
-    ![Step 5](steps_create_user/step_5.png)
+    ![Step 5](steps_create_user/step_6.png)
 
 6. Step 6
 
-    ![Step 6](steps_create_user/step_6.png)
+    ![Step 6](steps_create_user/step_7.png)
 
 7. Step 7
 
-    ![Step 7](steps_create_user/step_7.png)
+    ![Step 7](steps_create_user/step_8.png)
 
-8. Step 8
+8. Step 8 - Write down your WebID. You will need it.
 
-    ![Step 8](steps_create_user/step_8.png)
-
-9. Step 9 - Write down your WebID. You will need it.
-
-    ![Step 9](steps_create_user/step_9.png)
+    ![Step 8](steps_create_user/step_9.png)
 
 [Evaluation Form.](https://forms.gle/kVojYPy9xToeLGAj6)
